@@ -1,1 +1,17 @@
+
 hola mundo
+
+v
+
+fd
+bfd
+
+gf
+gf
+
+bgf
+bgf
+bg
+bgf
+:wq
+
